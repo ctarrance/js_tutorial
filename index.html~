@@ -3,11 +3,10 @@
   <head>
     <title>Learn Enough JavaScript</title>
     <meta charset="utf-8">
-
     <script>
         alert('hello, world!');
+        alert('how's it hanging?');
     </script>
-
   </head>
   <body>
     <h1>Hello, world!</h1>
